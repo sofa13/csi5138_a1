@@ -1,4 +1,4 @@
-# CSI 5238 Homework Exercise 1
+# CSI 5138 Homework Exercise 1
 
 This homework explores the fitting and generalization of regression models via simulation.
 
