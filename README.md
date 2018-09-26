@@ -10,7 +10,7 @@ This homework makes use of [jupyter notebook](http://jupyter.org/) written in py
 
 `LinearRegressionModel.ipynb`: Python code
 
-`Report.ipynb`: A concise report explaining your findings can be
+`Report.ipynb`: Reading and processing experiments with a concise report explaining findings
 
 `experiments`: Experiment results
 
